@@ -1,5 +1,5 @@
 # MishanBot
-This is chat application with real time messaging and room wise chat fuctionality
+The real time chat application with Socket.io, multiple users and rooms.
 
 Step-1 : Download or clone this project
 Step-2 : npm install
